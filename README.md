@@ -1,5 +1,5 @@
 # Building-a-Custom-Image-Classifier-with-TensorFlow-Using-Personal-Image-Datasets-from-Google-Drive
-## 🎯 Learning Objectives (My Explanation)
+##  Learning Objectives (My Explanation)
 
 ### 1. Explain the fundamentals of image classification using deep learning
 I learned that deep learning models, especially **Convolutional Neural Networks (CNNs)**, can automatically detect patterns in images and classify them into categories without manually defining the features.
@@ -23,7 +23,7 @@ Through this project, I realized that the **quality, balance, and size of the da
 
 
 
-## 📝 Guide Questions (Student Reflection & Explanation)
+## Guide Questions (Student Reflection & Explanation)
 ## 1. Dataset Preparation
 
 ### ○ How did you organize your dataset in Google Drive?
